@@ -1,0 +1,10 @@
+{
+    "type": "",
+    "host": "",
+    "port": 3036,
+    "username": "",
+    "password": "",
+    "database": "",
+    "entities": [""],
+    "synchronize": true
+  }
